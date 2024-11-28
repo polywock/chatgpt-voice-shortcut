@@ -1,0 +1,8 @@
+{
+    "alpha": {
+        "speechButton": "button[data-testid=\"composer-speech-button\"]:not([disabled])",
+        "speechButtonAlt": null,
+        "speechClose": "div.lk-room-container span[data-state]:last-child button:not([disabled]):has(svg.icon-xl.text-token-main-surface-primary-inverse)",
+        "speechCloseAlt": null
+    }
+}
